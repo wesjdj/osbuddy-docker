@@ -10,7 +10,7 @@ chmod a+x /usr/bin/osbuddy
 #removes jar file and replaces it
 cd /usr/share/osbuddy
 rm OSBuddy.jar
-wget wget http://cdn.rsbuddy.com/live/f/loader/OSBuddy.jar 
+wget http://cdn.rsbuddy.com/live/f/loader/OSBuddy.jar 
 #sets proper permissions
 chmod a+w OSBuddy.jar
 
